@@ -39,13 +39,6 @@ Participants who attended the KCNA Bootcamp gained:
 * **The foundation to pursue the KCNA certification.**
 * **Connection with a community of fellow cloud-native enthusiasts.**
 
-## How to Make the Most of This Repository 💡
-
-* **Explore the folders:** Look for specific folders related to each bootcamp session.
-* **Review the notes:** Refresh your understanding of the key concepts discussed.
-* **Experiment with the code:** If code examples are provided, try running and modifying them.
-* **Follow the links:** Dive deeper into specific topics using the provided resources.
-
 ## Contributing 🤝
 
 While this repository primarily serves as a resource for bootcamp attendees, contributions in the form of corrections, clarifications, or additional helpful links are welcome. Please feel free to submit pull requests.
